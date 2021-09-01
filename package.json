@@ -1,0 +1,24 @@
+{
+  "name": "toflexible",
+  "version": "1.0.0",
+  "description": "Convert decimals with round and specified number of fractions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/allmysmarts/toflexible"
+  },
+  "keywords": [
+    "convert",
+    "flexible",
+    "toflexible",
+    "precisition",
+    "decimals",
+    "finance",
+    "float",
+  ],
+  "author": "allmysmarts",
+  "license": "ISC"
+}
