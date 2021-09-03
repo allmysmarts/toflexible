@@ -8,8 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/allmysmarts/toflexible"
+    "url": "https://github.com/allmysmarts/toflexible.git"
   },
+  "homepage": "https://github.com/allmysmarts/toflexible",
   "keywords": [
     "convert",
     "flexible",
