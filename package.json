@@ -1,6 +1,6 @@
 {
   "name": "toflexible",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert decimals with round and specified number of fractions.",
   "main": "index.js",
   "scripts": {
