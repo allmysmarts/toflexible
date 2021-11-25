@@ -1,7 +1,7 @@
 {
   "name": "toflexible",
   "version": "1.0.1",
-  "description": "Convert decimals with round and specified number of fractions.",
+  "description": "Convert decimals with round and specified number of fractions after continuous zeros.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,7 +18,10 @@
     "precisition",
     "decimals",
     "finance",
-    "float"
+    "float",
+    "defi",
+    "cryptocurrency",
+    "dex"
   ],
   "author": "allmysmarts",
   "license": "ISC"
