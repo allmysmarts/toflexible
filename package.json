@@ -1,6 +1,6 @@
 {
   "name": "toflexible",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Convert decimals with round and specified number of fractions after continuous zeros.",
   "main": "index.js",
   "scripts": {
